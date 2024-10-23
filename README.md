@@ -23,6 +23,7 @@ Open your terminal and run: npx nodemon index.js
 
 **POST /transactions**
   ![alt text](image-1.png)
+  
   ![alt text](image-2.png)
 
 **GET /transactions**
@@ -32,8 +33,10 @@ Open your terminal and run: npx nodemon index.js
   ![alt text](image-4.png)  
 
 **PUT /transactions/:id** 
-   ![alt text](image-5.png) 
+   ![alt text](image-5.png)
+   
    ![alt text](image-7.png)
+   
 In this Changed the name friend to kamal in category 
 
 **DELETE /transactions/:id** 
